@@ -1,0 +1,7 @@
+﻿  human.cpp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\05_02_01_STRUCT\human.cpp(23,10): error C2440: 'return': cannot convert from 'const std::string' to 'std::string &'
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\05_02_01_STRUCT\human.cpp(23,10): message : Conversion loses qualifiers
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\05_02_01_STRUCT\human.cpp(27,10): error C2440: 'return': cannot convert from 'const std::string' to 'std::string &'
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\05_02_01_STRUCT\human.cpp(27,10): message : Conversion loses qualifiers
+  main.cpp
+  Generating Code...

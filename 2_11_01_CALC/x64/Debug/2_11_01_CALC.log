@@ -1,0 +1,3 @@
+﻿  calc.cpp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\2_11_01_CALC\calc.cpp(70,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  2_11_01_CALC.vcxproj -> C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\x64\Debug\2_11_01_CALC.exe

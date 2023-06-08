@@ -1,0 +1,5 @@
+﻿  calculate.cpp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\04_10_CALC\calculate.cpp(54,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  main.cpp
+  Generating Code...
+  04_10_CALC.vcxproj -> C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\x64\Debug\04_10_CALC.exe
