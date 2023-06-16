@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\08_06_02_Templates\main.cpp(38,32): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\08_06_02_Templates\main.cpp(38,27): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+  08_06_02_Templates.vcxproj -> C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\x64\Debug\08_06_02_Templates.exe

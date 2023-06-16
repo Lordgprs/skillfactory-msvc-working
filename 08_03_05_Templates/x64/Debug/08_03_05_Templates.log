@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\08_03_05_Templates\main.cpp(19,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\08_03_05_Templates\main.cpp(20,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\08_03_05_Templates\main.cpp(21,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  08_03_05_Templates.vcxproj -> C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP\x64\Debug\08_03_05_Templates.exe
